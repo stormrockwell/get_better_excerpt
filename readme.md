@@ -5,4 +5,5 @@ Simple function for better results than get_the_excerpt
 
 ## Parameters
 **$post**(int or object) - Either the post ID or the post object. Use the post object if available
+
 **$count**(int) - Length of the excerpt
