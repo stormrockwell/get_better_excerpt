@@ -21,4 +21,5 @@ function get_better_excerpt( $post, $count = 150 ) {
 	}
 	
 	return $excerpt; 
+	
 }
