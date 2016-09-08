@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 /**
  * Get Better Excerpt
